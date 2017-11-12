@@ -13,6 +13,9 @@ View the [design specs](https://github.com/wingworks/Circus-9/blob/master/Circus
 ![Kite 3D preview](https://github.com/wingworks/Circus-9/blob/master/Circus-9_right.png) 
 
 # History
+## Version 0.2
+Reduced the number of segments
+
 ## Version 0.1
 First draft
 
